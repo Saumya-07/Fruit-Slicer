@@ -3,7 +3,7 @@ var score;
 var trialsleft;
 var step;//for random steps
 var action;//for settime interval
-var fruits = ['1','2','3','4','5','6','7','8','9','10'];
+var fruits = ['1','2','3','4','5','6','7','8','9','10'];//for fruits
 
 $(function(){
     //click on start or reset button
