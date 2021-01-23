@@ -1,4 +1,5 @@
 # Fruit-Slicer
+<a href='https://saumya-07.github.io/Fruit-Slicer/'> Live Preview</a></br>
  🍎🍍🍑🍐🍒🍓🍊</br>
 A fun fruit slicing game🍉,</br>
 ◾ as you slice the fruit 🗡 🥑, it explodes 🤺 and produces sound of sword 🔊 </br>
